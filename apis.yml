@@ -1,9 +1,30 @@
 aid: attentiveai
 name: Attentive.ai
-description: Attentive.ai is a company surfaced as a portfolio company of insight-partners and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Attentive.ai builds AI-powered software for the construction and outdoor
+  services industries, automating property measurements, takeoffs, and
+  estimating from aerial imagery and blueprints. Its Automeasure platform
+  measures properties from satellite and site-plan imagery for landscaping,
+  paving, and snow-removal contractors, while Beam AI (ibeam.ai) automates
+  construction takeoffs and estimates and BIM CoPilot handles modeling, clash
+  detection, and as-built documentation. The company is backed by Insight
+  Partners. This API Evangelist profile was enriched from the company's public
+  web surface; Attentive.ai does not currently publish a public developer API,
+  developer portal, or OpenAPI definition, so this record captures its identity,
+  security posture, and site link properties rather than API artifacts.
 url: https://raw.githubusercontent.com/api-evangelist/attentiveai/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/63a5ab1451ece76d773e6c46/6a3ff5bb43f07dd45acdd4e8_attentive-OG-updated.webp
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,9 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Construction
+- Geospatial
+- Artificial Intelligence
+- Takeoff Software
+- Estimating
+- Landscaping
+- BIM
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +52,32 @@ maintainers:
 common:
 - type: Website
   url: https://attentive.ai/
+- type: Blog
+  url: https://www.ibeam.ai/blog
+- type: Support
+  url: https://attentive.ai/contact
+- type: SignUp
+  url: https://app.ibeam.ai/login
+- type: Pricing
+  url: https://www.ibeam.ai/schedule-a-demo
+- type: TermsOfService
+  url: https://attentive.ai/terms-of-use
+- type: PrivacyPolicy
+  url: https://attentive.ai/privacy-policy
+- type: TrustCenter
+  url: security/attentiveai-trust-center.yml
+- type: Compliance
+  url: https://attentive.ai/security
+- type: Security
+  url: https://attentive.ai/security
+- type: VulnerabilityDisclosure
+  url: security/attentiveai-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/attentiveai-domain-security.yml
+- type: LLMsTxt
+  url: llms/attentiveai-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

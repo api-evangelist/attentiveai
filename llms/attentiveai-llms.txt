@@ -1,0 +1,26 @@
+# Attentive.ai
+
+> Attentive.ai builds AI-powered software for the construction and outdoor services industries, automating property measurements, takeoffs, and estimating from aerial imagery and blueprints. Backed by Insight Partners. No public developer API or OpenAPI is currently published; this profile captures identity, security posture, and site link properties.
+
+## Products
+- [Automeasure](https://attentive.ai/): AI property measurement from aerial imagery for landscaping, paving, and snow-removal contractors
+- [Beam AI](https://www.ibeam.ai/): Automated construction takeoffs and estimates
+- [BIM CoPilot](https://attentive.ai/bim): BIM modeling, clash detection, BOQ generation, and as-built documentation
+
+## Company
+- [Website](https://attentive.ai/)
+- [About](https://attentive.ai/about-us)
+- [Blog](https://www.ibeam.ai/blog)
+- [Contact / Support](https://attentive.ai/contact)
+- [Careers](https://www.ibeam.ai/careers)
+- [Sign in](https://app.ibeam.ai/login)
+
+## Security & Compliance
+- [Security & Trust](https://attentive.ai/security) — SOC 2 Type 2, ISO/IEC 27001:2013, VAPT; security contact it_security@attentive.ai
+- [Terms of Use](https://attentive.ai/terms-of-use)
+- [Privacy Policy](https://attentive.ai/privacy-policy)
+
+## Artifacts
+- [Trust Center](security/attentiveai-trust-center.yml)
+- [Vulnerability Disclosure](security/attentiveai-vulnerability-disclosure.yml)
+- [Domain Security](security/attentiveai-domain-security.yml)

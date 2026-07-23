@@ -1,0 +1,13 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://attentive.ai/security
+url: https://attentive.ai/security
+certifications:
+- SOC 2
+- ISO 27001
+evidence:
+- source: https://attentive.ai/security
+  keywords:
+  - soc 2
+  - iso/iec 27001
