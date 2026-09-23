@@ -1,0 +1,27 @@
+# Front Door AI Index — attentiveai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: attentiveai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: attentive.ai
+  final_host: attentive.ai
+  ownership: own
+  owner: attentiveai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 22
+  host_score: 22
+  density: 29.37
+  words: 749
+  tiers:
+    agentic: 2
+    core: 20
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 20
+    copilot: 2
+    automation: 1
